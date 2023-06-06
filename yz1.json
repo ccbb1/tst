@@ -2,8 +2,9 @@
   "code" : 200,
   "data" : [
       {
-        "status" : 1,
-        "url" : "https://www.baidu.com/"
+        "uArr":["weixin"],
+        "strS" : "YZGB",
+        "strU" : "https://www.baidu.com/"
       }
     ],
   
